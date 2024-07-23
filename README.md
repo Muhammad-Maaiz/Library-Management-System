@@ -18,10 +18,10 @@
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository to your local machine:
-        <pre><code>git clone &lt;https://github.com/Muhammad-Maaiz/Library-Management-System.git&gt;</code></pre>
+        <pre><code>git clone https://github.com/Muhammad-Maaiz/Library-Management-System.git</code></pre>
     </li>
     <li>Navigate to the directory containing the script:
-        <pre><code>cd &lt;Library Management System&gt;</code></pre>
+        <pre><code>cd Library Management System </code></pre>
     </li>
 </ol>
 
